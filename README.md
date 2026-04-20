@@ -32,24 +32,6 @@ This repository documents my journey of solving **Python problems daily** to:
 
 > 📌 **1 Problem Every Day — No Excuses**
 
-
-
-## 📂 Folder Structure
-
-```bash id="n3z1j9"
-python-daily-practice/
-│
-├── basics/
-├── strings/
-├── arrays/
-├── recursion/
-├── patterns/
-│
-├── README.md
-```
-
-
-
 ## 🧠 What Each Problem Contains
 
 Each solution is written with:
