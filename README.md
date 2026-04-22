@@ -51,6 +51,8 @@ Each solution is written with:
 | 1   | Sum of N Numbers  | Basics | ✅      |
 | 2   | Count Digits      | Basics | ✅      |
 | 3   | Palindrome Number | Basics | ✅      |
+| 4   | Factorial Of Number | Basics | ✅      |
+| 5   | GCD of Number | Basics | ✅      |
 
 > 🚧 Updating daily...
 
