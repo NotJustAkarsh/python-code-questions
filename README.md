@@ -66,8 +66,8 @@ def is_palindrome(n):
     temp = n
     
     while temp != 0:
-        digit = temp % 10
-        rev = rev * 10 + digit
+        lastdigit = temp % 10
+        rev = rev * 10 + lastdigit
         temp = temp // 10
         
     return rev == n
