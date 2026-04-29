@@ -3,7 +3,7 @@ def isPal(n):
     temp = n
     while temp != 0:
         ld = temp % 10
-        rev = rev * 0 + ld
+        rev = rev * 10 + ld
         temp = temp // 10
     return rev == n
 
