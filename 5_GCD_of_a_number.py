@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     print(gcd(a,b))
 
-#Optimised Euclidean Algorithm
+#Optimized Euclidean Algorithm
 
 def gcd(a,b):
     if b==0:
