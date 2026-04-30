@@ -53,6 +53,7 @@ Each solution is written with:
 | 3   | Palindrome Number | Basics | ✅      |
 | 4   | Factorial Of Number | Basics | ✅      |
 | 5   | GCD of Number | Basics | ✅      |
+| 6   | LCM of two numbers | Basics | ✅      |
 
 > 🚧 Updating daily...
 
