@@ -9,12 +9,6 @@ def lcm(a,b):
         res += 1
     return res
 
-if __name__ == "__main__":
-    a = 4
-    b = 6
-
-    print(lcm(a,b))
-
 # Efficient Approach
 
 def gcd(a, b):

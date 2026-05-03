@@ -8,12 +8,6 @@ def gcd(a,b):
             b=b-a
     return a
 
-if __name__ == "__main__":
-    a=12
-    b=15
-
-    print(gcd(a,b))
-
 #Optimized Euclidean Algorithm
 
 def gcd(a,b):

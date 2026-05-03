@@ -6,9 +6,6 @@ def fact(n):
         res = res*i
     return res
 
-if __name__ == "__main__":
-    number = 5
-    print(fact(number))
 
 
 #Recursive Approach
