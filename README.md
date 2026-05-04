@@ -55,6 +55,7 @@ Each solution is written with:
 | 5   | GCD of Number | Basics | ✅      |
 | 6   | LCM of two numbers | Basics | ✅      |
 | 7   | Checking for Prime | Basics | ✅      |
+| 8   | Prime Factorization | Basics | ✅      |
 
 > 🚧 Updating daily...
 
