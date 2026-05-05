@@ -56,6 +56,7 @@ Each solution is written with:
 | 6   | LCM of two numbers | Basics | ✅      |
 | 7   | Checking for Prime | Basics | ✅      |
 | 8   | Prime Factorization | Basics | ✅      |
+| 9   | Divisors of number | Basics | ✅      |
 
 > 🚧 Updating daily...
 
