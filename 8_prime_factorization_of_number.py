@@ -14,5 +14,7 @@ def printPrimeFactors(n):
                 print(i)
                 n = n // i
 
+if __name__ == "__main__":
+    n = 121
 
-printPrimeFactors(121)
+    printPrimeFactors(n)

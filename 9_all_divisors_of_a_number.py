@@ -27,5 +27,8 @@ def printDivisors(n):
         if (n%i == 0):
             print(n//i)
         i -= 1
-            
-print(printDivisors(18))
+
+if __name__ == "__main__":
+    n = 18
+
+    printDivisors(n)
