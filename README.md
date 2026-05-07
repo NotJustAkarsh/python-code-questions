@@ -57,6 +57,8 @@ Each solution is written with:
 | 7   | Checking for Prime | Basics | ✅      |
 | 8   | Prime Factorization | Basics | ✅      |
 | 9   | Divisors of number | Basics | ✅      |
+| 10   | Sieve Of Erathosthenes | Basics | ✅      |
+| 11   | Computing Power | Basics | ✅      |
 
 > 🚧 Updating daily...
 
